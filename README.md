@@ -1,2 +1,2 @@
-# Automa-o-usando-Cucumber
+# Usando-Cucumber
 Repo de estudo
